@@ -1,2 +1,2 @@
 # appflow-bailian
-python connector for appflow to bailian
+python connecter for appflow to bailian
