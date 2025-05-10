@@ -1,6 +1,8 @@
 # appflow-bailian
 python connecter for appflow to bailian
 
+一个阿里云计算巢appflow的连接器，用于调用百炼智能体，会自动为每个用户创建一个独立的记忆体
+
 
 ## 环境变量配置
 | 变量名         | 默认值     | 描述                     |
